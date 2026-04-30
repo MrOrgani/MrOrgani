@@ -1,6 +1,6 @@
 # Hi, I'm Max 👋
 
-📍 **Paris** | 💻 **Senior Fullstack → Product Engineer** | 🏐 **Volleyball coach by night**
+📍 **Paris** | 💻 **Fullstack Developer → Product Engineer**
 
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev/)
@@ -11,65 +11,36 @@
 [![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)](https://supabase.com/)
 [![PWA](https://img.shields.io/badge/-PWA_offline--first-5A0FC8?style=flat-square&logo=pwa&logoColor=white)](https://web.dev/progressive-web-apps/)
 
-> Développeur fullstack JS/TS avec **5 ans d'expérience**, dont **3 ans sur des interfaces data-intensive** (dataviz, cartographie) pour des opérateurs transport (RATP Dev, Keolis, Transdev). Sensibilité produit forte : habitué à **challenger les specs et aller au contact des utilisateurs**.
+> Fullstack JS/TS developer with **5 years of experience**, including **3 years on data-intensive interfaces** (dataviz, mapping) for transit operators (RATP Dev, Keolis, Transdev). Strong product mindset: used to **challenging specs and going out to meet users**.
 
-> 🎯 **En recherche** d'un rôle Product Engineer dans une startup ou scale-up à impact (CleanTech, mobilité, EdTech, LegalTech...) — autonomie technique, ownership produit, et terrain.
+> 🎯 **Looking for** an opportunity as a Product Engineer or Software Engineer role at an impact-driven startup or scale-up
 
-## 🚀 Ce que je construis en ce moment
+## 📦 Side Projects
 
-* 🏐 **TeamMetrics** — PWA pour coachs de volleyball amateur. Architecture **offline-first avec CRDT (Y.js + WebRTC)** pour fonctionner dans des gymnases sans réseau. Scoring temps réel, sync automatique, partage live. *React · TypeScript · Firebase · Y.js*
-* 🎓 **[YouLearn](https://github.com/MrOrgani/youlearn)** — Plateforme de formation vidéo full-stack avec paiement intégré. *Next.js · TypeScript · Supabase · Stripe · Clerk*
-* 🗺️ **Paris Historical Panels** — Carte interactive des ~700 panneaux *Histoire de Paris*. Scraping Wikipedia au build time, 100% statique, zéro serveur. *TanStack Start · Leaflet · Vite*
-* 🏃 **Hyrox 10-Week Program** — Programme d'entraînement Hyrox généré et exporté en `.ics` pour Google Calendar.
+- 🇨🇳 **[hsk-trainer](https://github.com/MrOrgani/hsk-trainer)** — Trainer for the HSK (Mandarin proficiency test): vocabulary, drills, progress tracking
+- 🎬 **[paris-showtimes-for-letterboxd](https://github.com/MrOrgani/paris-showtimes-for-letterboxd)** — Chrome extension that displays Paris showtimes directly on Letterboxd film pages
+- 🌱 **[tiny-wins](https://github.com/MrOrgani/tiny-wins)** — Habit tracker built on the psychology of small wins: celebrating tiny steps to build lasting routines
+- 📸 **[AI-nstagram](https://github.com/MrOrgani/AI-nstagram)** — Instagram-style social network where feeds are populated by generative AI
+- 🎨 **[van-gan](https://github.com/MrOrgani/van-gan)** — Exploration of GANs applied to painting style (a nod to Van Gogh)
+- 🎓 **[YouLearn](https://github.com/MrOrgani/youlearn)** — Full-stack video training platform with integrated payments. _Next.js · TypeScript · Supabase · Stripe · Clerk_
+- 🍳 **[Cookit](https://github.com/MrOrgani/Cookit)** — Cooking companion: find what you can make with what's in your fridge
+- 🎴 **[FlipGenius](https://github.com/MrOrgani/FlipGenius)** — Flashcard app for interactive learning (React, Express, PlanetScale)
+- 📺 **[3615Tube](https://github.com/MrOrgani/3615Tube)** — YouTube clone in retro Minitel style
+- ❤️ **[Matcha](https://github.com/MrOrgani/Matcha)** — Full-stack dating app (42 project)
 
-## 🛠️ Forces distinctives
+## 🚀 What I'm building right now
 
-* **Dataviz & cartographie complexe** — 3 ans à CITiO sur des dashboards transport avec D3.js, Mapbox et CrossFilter sur des millions d'événements. Un outil de viz cartographique a divisé le temps d'analyse client par 2.
-* **Architecture offline-first & sync** — CRDT, Y.js, WebRTC. Expérience Auditoo (assistant IA pour diagnostiqueurs immobiliers terrain) et TeamMetrics (gymnases sans 4G).
-* **Ownership produit complet** — Betteride : conception from scratch d'une plateforme multi-portails vélo, **147 endpoints REST**, microservices avec Kafka et Elasticsearch, en quasi-solo full-stack.
-* **Sensibilité Product Engineer** — Roadmap, sprint reviews, user research terrain (Hubvisory : sessions sur site avec chercheurs en droit), challenge actif des specs.
-* **Mentoring** — 3 alternants/stagiaires accompagnés sur 2 ans à CITiO (pair programming, code review, montée en autonomie).
+- 🏐 **TeamMetrics** — PWA for amateur volleyball coaches. **Offline-first architecture with CRDTs (Y.js + WebRTC)** to work in gyms with no network. Real-time scoring, automatic sync, live sharing. _React · TypeScript · Firebase · Y.js_
+- 🗺️ **Paris Historical Panels** — Interactive map of the ~700 _Histoire de Paris_ panels. Wikipedia scraping at build time, 100% static, zero server. _TanStack Start · Leaflet · Vite_
+- 🏃 **Hyrox 10-Week Program** — Hyrox training program generated and exported as `.ics` for Google Calendar.
 
-## 📦 Side Projects & Public Repos
+## 🛠️ Distinctive strengths
 
-* 🇨🇳 **[hsk-trainer](https://github.com/MrOrgani/hsk-trainer)** — Trainer pour le HSK (test de mandarin) : vocabulaire, drills, progression
-* 🎬 **[paris-showtimes-for-letterboxd](https://github.com/MrOrgani/paris-showtimes-for-letterboxd)** — Extension Chrome qui affiche les séances parisiennes directement sur les pages films de Letterboxd
-* 🌱 **[tiny-wins](https://github.com/MrOrgani/tiny-wins)** — Habit tracker basé sur la psychologie des petites victoires : célébrer les petits pas pour bâtir des routines durables
-* 📸 **[AI-nstagram](https://github.com/MrOrgani/AI-nstagram)** — Réseau social façon Instagram dont les feeds sont peuplés par de l'IA générative
-* 🎨 **[van-gan](https://github.com/MrOrgani/van-gan)** — Exploration des GANs appliqués au style pictural (clin d'œil à Van Gogh)
-* 🍳 **[Cookit](https://github.com/MrOrgani/Cookit)** — Compagnon cuisine : trouver ce qu'on peut faire avec ce qu'on a dans le frigo
-* 🎴 **[FlipGenius](https://github.com/MrOrgani/FlipGenius)** — App de flashcards pour l'apprentissage interactif (React, Express, PlanetScale)
-* 💼 **[hiring-task-frontend](https://github.com/MrOrgani/hiring-task-frontend)** — Test technique frontend
-* 🦊 **[tanuki](https://github.com/MrOrgani/tanuki)** — Side project TypeScript
-* 🎨 **[max-organ-ui](https://github.com/MrOrgani/max-organ-ui)** — Portfolio / playground UI
-* ⚡ **[test-smart-impulse](https://github.com/MrOrgani/test-smart-impulse)** — Test technique pour Smart Impulse (énergie / data)
-* 🐛 **[HelloBugs](https://github.com/MrOrgani/HelloBugs)** — Repo Java de fix-the-bugs (exercice contributif)
-
-### Earlier Work (École 42 & débuts)
-
-* 📺 **[3615Tube](https://github.com/MrOrgani/3615Tube)** — Clone YouTube en mode Minitel rétro
-* ❤️ **[Matcha](https://github.com/MrOrgani/Matcha)** — App de rencontres full-stack (projet 42)
-* 🛍️ **[atelier-application-shopify](https://github.com/MrOrgani/atelier-application-shopify)** — Atelier sur les applications Shopify
-* 🧰 **[libft](https://github.com/MrOrgani/libft)** — Réimplémentation en C des fonctions standard de la libc (le rite de passage 42)
-* 📖 **[GNL](https://github.com/MrOrgani/GNL)** — `get_next_line` en C : lire un fichier ligne par ligne sans tout charger en mémoire
-
-## 💼 Parcours
-
-| | | |
-|---|---|---|
-| 🏠 **Auditoo** | *Founding Engineer · Freelance* | Fév 2026 – Mars 2026 |
-| 🚲 **Betteride** | *Lead Fullstack · Freelance* | Janv 2025 – Janv 2026 |
-| 📄 **Ferway** | *Lead technique · CDI* | Juil 2024 – Déc 2024 |
-| ⚖️ **Hubvisory** | *Lead technique · Freelance* | Janv 2024 – Juin 2024 |
-| 🚇 **CITiO** | *Frontend Engineer · CDI (3 ans)* | Janv 2020 – Avr 2023 |
-
-**Stack expert (production)** : React · TypeScript · JavaScript · Git  
-**Stack avancé (production)** : Angular · Redux · D3.js · Mapbox · Tailwind · Node.js · PostgreSQL · Firebase/Firestore · Cypress · Jest  
-**Side projects & exploration** : Next.js · Supabase · TanStack Query · Y.js · TanStack Start
-
-## 🏐 Off-keyboard
-
-Coach de volleyball amateur (utilisateur n°1 de TeamMetrics). Passionné d'écologie et de mobilité douce — ça colore mes choix de projets et d'employeurs. Hyrox enthusiast.
+- **Complex dataviz & mapping** — 3 years at CITiO building transit dashboards with D3.js, Mapbox and CrossFilter over millions of events. One mapping viz tool cut client analysis time in half.
+- **Offline-first architecture & sync** — CRDTs, Y.js, WebRTC. Experience on Auditoo (AI assistant for on-site real estate inspectors) and TeamMetrics (gyms with no 4G).
+- **End-to-end product ownership** — Betteride: designed a multi-portal cycling platform from scratch, **147 REST endpoints**, microservices with Kafka and Elasticsearch, almost solo full-stack.
+- **Product Engineer mindset** — Roadmap, sprint reviews, on-the-ground user research (Hubvisory: on-site sessions with legal researchers), actively challenging specs.
+- **Mentoring** — 3 apprentices/interns coached over 2 years at CITiO (pair programming, code review, growing into autonomy).
 
 ## 📫 Connect
 
@@ -79,4 +50,4 @@ Coach de volleyball amateur (utilisateur n°1 de TeamMetrics). Passionné d'éco
 
 ---
 
-> 🎯 **Currently exploring** — Product Engineer ou Senior Fullstack roles dans des produits à impact. Hybride 2-3j remote préféré. Si tu construis quelque chose qui croise tech, produit et terrain, parlons-en.
+> 🎯 **Currently exploring** — Product Engineer or Fullstack roles in impact-driven products. If you're building something at the intersection of tech, product and the field, let's talk.
